@@ -6,5 +6,6 @@ def countdown(int)
   int -= 1
   break if
   int == 0 
-  puts "HAPPY NEW YEAR!"
+    puts "HAPPY NEW YEAR!"
+  end
 end
